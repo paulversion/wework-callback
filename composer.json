@@ -1,0 +1,16 @@
+{
+    "name": "paulversion/wework-callback",
+    "description": "wechat work callback",
+    "autoload": {
+        "psr-4": {
+            "Paulversion\\WeworkCallback\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "paulversion",
+            "email": "paulversion@gmail.com"
+        }
+    ],
+    "require": {}
+}
